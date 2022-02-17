@@ -280,7 +280,9 @@ async def sms(ctx, phone, amount:int):
     
     if (amount < 151):
        
-      await ctx.channel.send("> กำลังยิงไปที่เบอร์") value=phone
+      embes.add_field(name="กำลังยิงไปที่เบอร์",value=phone)
+
+      await ctx.channel.send(embed=embes)
     
 		
     
