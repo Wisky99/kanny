@@ -280,7 +280,7 @@ async def sms(ctx, phone, amount:int):
     
     if (amount < 151):
        
-      await ctx.channel.send(> กำลังยิงเบอร์)
+      await ctx.channel.send("> กำลังยิงเบอร์")
     
 		
     
